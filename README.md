@@ -182,5 +182,5 @@ This project is available under the MIT License.
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-Passionate about NLP, Generative AI, Robotics, and Intelligent Systems.
+Passionate about NLP, Generative AI, LLMS, System Design , and Intelligent Systems.
 
